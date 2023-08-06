@@ -1,0 +1,12 @@
+canvas{
+    margin: 0 auto;
+    display: block;
+    position: absolute;
+    top: 60px;
+    left: 450px;
+}
+*{
+    background-image: url(/img/bg-main-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
